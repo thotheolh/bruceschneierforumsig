@@ -15,6 +15,8 @@ https://git-scm.com/book/en/v2/Git-Tools-Signing-Your-Work
 
 Make sure to use the Git Commit Verification instead of Tag Verification or other verification methods.
 
+To view the signed commits on the Github page, click on `X commits` tab and a status will appear next to the commit message.
+
 
 ### PGP Signing Key:
 
