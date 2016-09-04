@@ -1,6 +1,21 @@
 # bruceschneierforumsig
 Forum post signatures for https://schneier.com forum posts.
 
+
+### Post Signature Formatting
+Posts would be set according to the day in `DDMMYYYY` format and daily posts (according to GMT time)
+would be placed into each day's file that contains the day as the name of the text file. The file would
+include all the attested nickname followed by the forum's post timestamp.
+
+PGP Signature would be computed over the Git Commit and to verift the signatures, you would essentially
+need to clone the Git repository and compute a signature verification over the Git Commit.
+
+More details on Git Signing and Verification can be found on the official Git website linked below:
+https://git-scm.com/book/en/v2/Git-Tools-Signing-Your-Work
+
+Make sure to use the Git Commit Verification instead of Tag Verification or other verification methods.
+
+
 ### PGP Signing Key:
 
 ```
