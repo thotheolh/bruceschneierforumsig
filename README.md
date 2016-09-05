@@ -17,6 +17,19 @@ Make sure to use the Git Commit Verification instead of Tag Verification or othe
 
 To view the signed commits on the Github page, click on `X commits` tab and a status will appear next to the commit message.
 
+For additional security purposes, the PGP signing key is stored in a smart card using the open source Yubico's OpenPGP applet. Anyone trying to emulate this scheme of signature should purchase a smart card
+and load the OpenPGP applet to securely generate, store and use your OpenPGP signing keys.
+
+
+###Useful Links:
+* (OpenPGP Applet maintained by Yubico)[https://github.com/Yubico/ykneo-openpgp]
+* (Yubico's OpenPGP setup instruction)[https://www.yubico.com/2012/12/yubikey-neo-openpgp/]
+* (Smart Card Applet loading tool)[https://github.com/martinpaljak/GlobalPlatformPro]
+* (Smart Card Focus - Smart Card online shop) [http://www.smartcardfocus.com]
+* (Feitian - Smart Card manufacturer and supplier) [http://www.ftsafe.com]
+* (ACS - Smart Card manufacturer and supplier)[http://www.acs.com.hk]
+
+
 
 ### PGP Signing Key:
 
