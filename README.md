@@ -22,12 +22,12 @@ and load the OpenPGP applet to securely generate, store and use your OpenPGP sig
 
 
 ###Useful Links:
-* (OpenPGP Applet maintained by Yubico)[https://github.com/Yubico/ykneo-openpgp]
-* (Yubico's OpenPGP setup instruction)[https://www.yubico.com/2012/12/yubikey-neo-openpgp/]
-* (Smart Card Applet loading tool)[https://github.com/martinpaljak/GlobalPlatformPro]
-* (Smart Card Focus - Smart Card online shop) [http://www.smartcardfocus.com]
-* (Feitian - Smart Card manufacturer and supplier) [http://www.ftsafe.com]
-* (ACS - Smart Card manufacturer and supplier)[http://www.acs.com.hk]
+* [OpenPGP Applet maintained by Yubico](https://github.com/Yubico/ykneo-openpgp)
+* [Yubico's OpenPGP setup instruction](https://www.yubico.com/2012/12/yubikey-neo-openpgp/)
+* [Smart Card Applet loading tool](https://github.com/martinpaljak/GlobalPlatformPro)
+* [Smart Card Focus - Smart Card online shop](http://www.smartcardfocus.com)
+* [Feitian - Smart Card manufacturer and supplier](http://www.ftsafe.com)
+* [ACS - Smart Card manufacturer and supplier](http://www.acs.com.hk)
 
 
 
